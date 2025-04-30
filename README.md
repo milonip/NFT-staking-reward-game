@@ -83,9 +83,10 @@ npm run dev
 - **Phase 4**: Advanced game mechanics and multiplayer features
 - **Phase 5**: Leaderboard and competitive gameplay
 
-## License
+## Author
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Miloni Patel 
+@milonip
 
 ## Acknowledgments
 
