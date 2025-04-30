@@ -29,6 +29,11 @@ An interactive NFT staking and gaming platform where users can stake their NFTs,
 - **Data Storage**: In-memory storage (can be connected to a database)
 - **Authentication**: Wallet-based
 
+## Visuals
+<img width="1470" alt="Screenshot 2025-04-30 at 11 32 55 AM" src="https://github.com/user-attachments/assets/3a5809eb-c21e-443c-9184-c16989f82ae5" />
+<img width="1470" alt="Screenshot 2025-04-30 at 11 33 25 AM" src="https://github.com/user-attachments/assets/5ba42f1c-7b4d-4af0-8546-3478463a0f94" />
+
+
 ## Getting Started
 
 ### Prerequisites
